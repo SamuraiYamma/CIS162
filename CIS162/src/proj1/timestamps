@@ -1,0 +1,9 @@
+This file is intended for keeping a timestamp for where I worked on this project.
+month:day:year:time_start:time_end - [Brief Description of Work Done]
+
+LOG
+5:23:2019:1800:2000 - Made framework to complete regular, challenge and extra features.
+5:26:2019:0220:0420 - Completed regular features.
+5:26:2019:1300:1330 - Began filling in features, auto-generated getters and setters
+5:30:2019:1800:2030 - Added listeners and edit view function, started javadoc
+6:04:2019:1300:xxxx - Finished version 1 of the project. Further versions are postponed indefinitely.
