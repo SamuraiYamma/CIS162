@@ -1,0 +1,13 @@
+This file is intended for keeping a timestamp for where I worked on this project.
+month:day:year:time_start:time_end - [Brief Description of Work Done]
+
+LOG
+6:11:2019:2300:0000 - Completed ZipCode.java requirements, began testing
+6:12:2019:0000:0230 - Began researching how to create an SQL DB from excel documents
+6:13:2019:1920:2000 - Creating custom database for reading in files and searching
+6:13:2019:2215:0220 - Attempted to finish DataBase class, still needs work
+6:19:2019:1830:1900 - Work on part 3 of the project. Database can wait
+6:20:2019:0520:0700 - Finished all parts of the project
+6:20:2019:1130:1200 - "Fixed" issues loading and using database
+6:20:2019:1230:1250 - Fixed Search by Zip and Search by Name
+6:20:2019:1420:1700 - Fix search distance, furthest and within radius

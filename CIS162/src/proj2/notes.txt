@@ -1,0 +1,10 @@
+This is an unofficial log of notable events or thought during the lifetime of this project.
+-Getting Apache POI to work in intelliJ is hard. It seems easier to convert the excel documents into .csv
+    then create a custom parser to read and input the information. My current plan is to read in zipcodes first,
+    then use the zipcode identifier in latsAndLongs to add the corresponding latitudes and longitudes. The big issue
+    here seems to be that i'll have to create a database out of the first information, then search and change database
+    items based on the second document. Fortunately, both will have been sorted.
+-Reading in data properly, but I think one of the reading mechanisms is stuck in an endless loop. The next order of
+    business is to add some counter or method of verifying if it's stuck or just taking too damn long.
+-In the future I think I would like to make the database store items in a Trie data structure to make it more efficient
+    for searching and inserting. It's kinda a lot of work though.
